@@ -12,7 +12,7 @@
 - **I Can Collaborate with Web development**  
  
 
-- ** I’m currently learning Artificial Intelligence and machine Learning**  
+- **I’m currently learning Artificial Intelligence and machine Learning**  
   
 
 - **I am Looking for Internship IN Web Development and programming**  
@@ -77,7 +77,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href=" https://www.linkedin.com/in/muzamil-zaman-294b4320b " target="_blank">
+<a href="https://www.linkedin.com/in/muzamil-zaman-294b4320b" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
